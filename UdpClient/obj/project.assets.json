@@ -1,36 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Android_Developer1\\.nuget\\packages\\": {}
+    "C:\\Users\\a\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Android_Developer1\\RiderProjects\\UdpClient\\UdpClient\\UdpClient.csproj",
+      "projectUniqueName": "C:\\Users\\a\\RiderProjects\\UdpClient\\UdpClient\\UdpClient.csproj",
       "projectName": "UdpClient",
-      "projectPath": "C:\\Users\\Android_Developer1\\RiderProjects\\UdpClient\\UdpClient\\UdpClient.csproj",
-      "packagesPath": "C:\\Users\\Android_Developer1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Android_Developer1\\RiderProjects\\UdpClient\\UdpClient\\obj\\",
+      "projectPath": "C:\\Users\\a\\RiderProjects\\UdpClient\\UdpClient\\UdpClient.csproj",
+      "packagesPath": "C:\\Users\\a\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\a\\RiderProjects\\UdpClient\\UdpClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Android_Developer1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\a\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net8.0"
+        "net7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -46,8 +46,8 @@
       }
     },
     "frameworks": {
-      "net8.0": {
-        "targetAlias": "net8.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
